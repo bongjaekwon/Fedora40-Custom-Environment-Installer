@@ -20,4 +20,4 @@ def install_packages_from_file(filename):
         print("No packages found to install.")
 
 # 사용 예: 패키지 목록이 저장된 텍스트 파일의 경로를 지정
-install_packages_from_file('/home/bongjae/바탕화면/test/requirements.txt')
+install_packages_from_file('/home/bongjae/바탕화면/test/pip_installed_packages.txt')
