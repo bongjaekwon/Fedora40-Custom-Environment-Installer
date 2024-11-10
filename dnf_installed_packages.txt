@@ -43,7 +43,9 @@ R-rpm-macros.noarch                                  1.2.1-10.fc40              
 SDL2.i686                                            2.30.3-1.fc40                       @updates                  
 SDL2.x86_64                                          2.30.3-1.fc40                       @updates                  
 SDL2_image.x86_64                                    2.8.2-4.fc40                        @anaconda                 
+SDL2_mixer.x86_64                                    2.8.0-1.fc40                        @updates                  
 SDL2_net.x86_64                                      2.2.0-5.fc40                        @fedora                   
+SDL2_ttf.x86_64                                      2.22.0-2.fc40                       @fedora                   
 SFCGAL.x86_64                                        1.4.1-6.fc40                        @fedora                   
 SuperLU.x86_64                                       6.0.1-3.fc40                        @fedora                   
 SuperLU-devel.x86_64                                 6.0.1-3.fc40                        @fedora                   
@@ -673,6 +675,8 @@ gnome-tweaks.noarch                                  46.1-1.fc40                
 gnome-user-docs.noarch                               46.4-1.fc40                         @updates                  
 gnome-user-share.x86_64                              43.0-5.fc40                         @anaconda                 
 gnome-weather.noarch                                 46.0-1.fc40                         @anaconda                 
+gnu-free-fonts-common.noarch                         20120503-33.fc40                    @fedora                   
+gnu-free-sans-fonts.noarch                           20120503-33.fc40                    @fedora                   
 gnupg2.x86_64                                        2.4.4-1.fc40                        @anaconda                 
 gnupg2-smime.x86_64                                  2.4.4-1.fc40                        @anaconda                 
 gnutls.i686                                          3.8.6-1.fc40                        @updates                  
@@ -2217,6 +2221,7 @@ poppler-data.noarch                                  0.4.11-7.fc40              
 poppler-glib.x86_64                                  24.02.0-2.fc40                      @anaconda                 
 poppler-utils.x86_64                                 24.02.0-2.fc40                      @anaconda                 
 popt.x86_64                                          1.19-6.fc40                         @anaconda                 
+portmidi.x86_64                                      217-56.fc40                         @fedora                   
 postgis.x86_64                                       3.4.3-1.fc40                        @updates                  
 postgresql.x86_64                                    16.3-7.fc40                         @updates                  
 postgresql-contrib.x86_64                            16.3-7.fc40                         @updates                  
@@ -2374,6 +2379,7 @@ python3-pwquality.x86_64                             1.4.5-9.fc40               
 python3-pyOpenSSL.noarch                             23.2.0-3.fc40                       @anaconda                 
 python3-pyatspi.noarch                               2.46.1-3.fc40                       @anaconda                 
 python3-pycparser.noarch                             2.20-14.fc40                        @anaconda                 
+python3-pygame.x86_64                                2.6.1-1.fc40                        @updates                  
 python3-pygit2.x86_64                                1.14.0-1.fc40                       @fedora                   
 python3-pygments.noarch                              2.17.2-3.fc40                       @fedora                   
 python3-pyparsing.noarch                             3.1.2-2.fc40                        @fedora                   
@@ -2420,6 +2426,7 @@ python3-urllib3+socks.noarch                         1.26.20-1.fc40             
 python3-utils.noarch                                 3.7.0-3.fc40                        @fedora                   
 python3-wxpython4.x86_64                             4.2.1-6.fc40                        @fedora                   
 python3-xkbregistry.x86_64                           0.3-1.fc40                          @anaconda                 
+python3-xlib.noarch                                  0.33-6.fc40                         @fedora                   
 qadwaitadecorations-qt5.x86_64                       0.1.5-7.fc40                        @updates                  
 qadwaitadecorations-qt6.x86_64                       0.1.5-7.fc40                        @updates                  
 qca-qt5.x86_64                                       2.3.8-1.fc40                        @fedora                   
