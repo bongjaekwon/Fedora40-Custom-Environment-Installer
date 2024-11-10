@@ -223,6 +223,8 @@ cdparanoia-libs.x86_64                               10.2-44.fc40               
 cfitsio.x86_64                                       4.4.0-2.fc40                        @fedora                   
 checkpolicy.x86_64                                   3.7-2.fc40                          @updates                  
 chkconfig.x86_64                                     1.27-1.fc40                         @updates                  
+chromedriver.x86_64                                  130.0.6723.91-1.fc40                @updates                  
+chromium-common.x86_64                               130.0.6723.91-1.fc40                @updates                  
 chrony.x86_64                                        4.6.1-1.fc40                        @updates                  
 cifs-utils.x86_64                                    7.0-5.fc40                          @updates                  
 cifs-utils-info.x86_64                               7.0-5.fc40                          @updates                  
@@ -476,6 +478,7 @@ fftw-libs-double.x86_64                              3.3.10-12.fc40             
 file.x86_64                                          5.45-4.fc40                         @anaconda                 
 file-libs.x86_64                                     5.45-4.fc40                         @anaconda                 
 filesystem.x86_64                                    3.18-8.fc40                         @anaconda                 
+filezilla.x86_64                                     3.67.1-2.fc40                       @updates                  
 findutils.x86_64                                     1:4.9.0-9.fc40                      @updates                  
 firefox.x86_64                                       132.0-2.fc40                        @updates                  
 firefox-langpacks.x86_64                             132.0-2.fc40                        @updates                  
@@ -996,6 +999,7 @@ libX11-common.noarch                                 1.8.10-2.fc40              
 libX11-devel.x86_64                                  1.8.10-2.fc40                       @updates                  
 libX11-xcb.i686                                      1.8.10-2.fc40                       @updates                  
 libX11-xcb.x86_64                                    1.8.10-2.fc40                       @updates                  
+libXNVCtrl.x86_64                                    560.35.03-3.fc40                    @updates                  
 libXau.i686                                          1.0.11-6.fc40                       @fedora                   
 libXau.x86_64                                        1.0.11-6.fc40                       @anaconda                 
 libXau-devel.x86_64                                  1.0.11-6.fc40                       @fedora                   
@@ -1188,6 +1192,7 @@ libffi.i686                                          3.4.4-7.fc40               
 libffi.x86_64                                        3.4.4-7.fc40                        @anaconda                 
 libffi-devel.x86_64                                  3.4.4-7.fc40                        @fedora                   
 libfido2.x86_64                                      1.14.0-4.fc40                       @anaconda                 
+libfilezilla.x86_64                                  0.48.1-1.fc40                       @updates                  
 libfontenc.x86_64                                    1.1.7-3.fc40                        @anaconda                 
 libfprint.x86_64                                     1.94.8-1.fc40                       @updates                  
 libfreehand.x86_64                                   0.1.2-23.fc40                       @anaconda                 
